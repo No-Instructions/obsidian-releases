@@ -12495,5 +12495,12 @@
         "author": "xhyabunny",
         "description": "Nyan Cat Progress Bar generator!",
         "repo": "xhyabunny/nyanbar"
+    },
+    {
+        "id": "system3-relay",
+        "name": "Relay",
+        "author": "System 3",
+        "description": "Real-time collaboration with live cursors. Folder-level sharing. Local-first storage with centralized access management.",
+        "repo": "no-instructions/relay"
     }
 ]
